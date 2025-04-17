@@ -1,4 +1,3 @@
-# football-tournament-Statistical-analysis
 # Problem Statement 1: La Liga Cup Team Analysis
 
 You were recently hired as a business analyst in a top sports company. The senior management team has asked you to come up with metrics with which they can gauge which team will win the upcoming **La Liga Cup** (Football tournament).
